@@ -1,0 +1,38 @@
+.hero{
+    padding-top: 20px;
+}
+
+.Container{
+    margin: auto;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.wid{
+    width: 50%;
+    padding-bottom: 0%;
+}
+
+.textlong{
+    padding-top: 50px;
+    font-size: 15px;
+}
+
+.textlarge{
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.order{
+    padding-left: 1rem;
+    border-radius: 50px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(255, 115, 0);
+}
+
+.pro{
+    padding: 80px;
+}
